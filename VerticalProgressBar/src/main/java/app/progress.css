@@ -1,0 +1,8 @@
+.root { -fx-background-color: cornsilk; -fx-padding: 55; }
+
+.progress-bar { -fx-box-border: blue; }
+
+.green-bar  { -fx-accent: green;  }
+.yellow-bar { -fx-accent: yellow; }
+.orange-bar { -fx-accent: orange; }
+.red-bar    { -fx-accent: red;    }
